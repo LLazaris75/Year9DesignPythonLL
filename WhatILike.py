@@ -1,0 +1,7 @@
+print("I Love The Raptors")
+print("I play Hockey")
+print("NBA2k is the best video game ever")
+print("I would like to visit New York")
+print("I go to California for summer")
+print("UCC is the best school")
+print("Z-Gop")
