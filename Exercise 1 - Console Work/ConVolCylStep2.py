@@ -1,3 +1,7 @@
+import math
+
+
+print("STEP 2")
 #Input
 #What inputs are needed to calculate the volume of a cylinder?
 print("Volume of a Cylinder Formula: ")
@@ -12,7 +16,7 @@ height = (float)(height)	#cast to float
 
 #Process
 #What formula is used to calculate the volume of a cylinder?
-volume = 3.14 * radius * radius * height
+volume = math.pi * radius * radius * height
 #Output
 #What is important about the output?
 print("The Volume Is "+ str(volume))
